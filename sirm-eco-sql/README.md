@@ -1,6 +1,6 @@
-# SIRM-Eco — Scripts SQL (Projeto de Banco de Dados)
+# SIREs — Scripts SQL (Projeto de Banco de Dados)
 
-Este repositório contém todos os scripts SQL completos da atividade final do projeto **Sistema de Registro de Espécies (SIRM-Eco)**, incluindo DDL, DML, consultas, atualizações, remoções e script de execução.
+Este repositório contém todos os scripts SQL completos da atividade final do projeto **Sistema de Registro de Espécies (SIREs)**, incluindo DDL, DML, consultas, atualizações, remoções e script de execução.
 
 ---
 
