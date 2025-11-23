@@ -101,7 +101,7 @@ chmod +x scripts/run_all.sh
 ---
 
 ## 📌 6. Autor
-Projeto desenvolvido para fins acadêmicos — Atividade Final SQL.
+Projeto desenvolvido para fins acadêmicos pelo aluno João Gabriel Peres — Atividade Final SQL.
 
 ---
 
